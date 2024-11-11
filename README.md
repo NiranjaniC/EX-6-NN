@@ -67,7 +67,10 @@ print("\nClassification Report:")
 print(classification_rep)
 /*
 <H3>Output:</H3>
-![image](https://github.com/user-attachments/assets/166b1510-5b77-46cb-92ca-bebccd4123cc)
+
+![Screenshot 2024-11-11 130018](https://github.com/user-attachments/assets/b0337f1f-2909-4745-a040-848bae4e2da8)
+
+
 
 
 
