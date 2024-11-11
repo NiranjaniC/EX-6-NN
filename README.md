@@ -17,7 +17,8 @@ Step 9:Evaluate the model's accuracy by comparing the predicted labels (y_pred) 
 Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
 <H3>Program: </H3>
-*/
+
+```
 import numpy as np
 import pandas as pd
 from sklearn.neural_network import MLPClassifier
@@ -65,7 +66,8 @@ print("\nConfusion Matrix:")
 print(conf_matrix)
 print("\nClassification Report:")
 print(classification_rep)
-/*
+```
+
 <H3>Output:</H3>
 
 ![Screenshot 2024-11-11 130018](https://github.com/user-attachments/assets/b0337f1f-2909-4745-a040-848bae4e2da8)
